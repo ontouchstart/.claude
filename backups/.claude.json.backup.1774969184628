@@ -1,0 +1,28 @@
+{
+  "numStartups": 1,
+  "firstStartTime": "2026-03-31T14:52:19.746Z",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "migrationVersion": 11,
+  "userID": "05b504ebfab0165a36578ea2d57f196ff3040477fa5fc388a21b91df156ec083",
+  "changelogLastFetched": 1774968740102,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.88",
+  "projects": {
+    "/home/cc/unpacked": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": true,
+      "projectOnboardingSeenCount": 1,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "opus1mMergeNoticeSeenCount": 1,
+  "lastReleaseNotesSeen": "2.1.88",
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true
+}
